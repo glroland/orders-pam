@@ -8,13 +8,5 @@
         <source>PROJECT</source>
       </metadata>
     </repository>
-    <repository>
-      <include>true</include>
-      <metadata>
-        <id>local</id>
-        <url>/Users/lroland/.m2/repository</url>
-        <source>LOCAL</source>
-      </metadata>
-    </repository>
   </repositories>
 </project-repositories>
